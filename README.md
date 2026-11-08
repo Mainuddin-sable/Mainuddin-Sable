@@ -34,7 +34,8 @@ Aspiring AI/ML Engineer interested in building practical machine learning and de
 - 🏅 NPTEL Certification:
 - Affective Computing (Score: 83%)-IIT Madras & IIT Delhi
 - Design,Technology and Innovation (score:63%)-IIT Bombay
-- ☁️ AWS Academy Graduate: Machine Learning Foundations | Cloud Foundations
+- ☁️ AWS Academy Graduate:
+-  Machine Learning Foundations | Cloud Foundations
 
 ---
 
