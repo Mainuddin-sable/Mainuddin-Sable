@@ -6,6 +6,7 @@ Aspiring AI/ML Engineer interested in building practical machine learning and de
 
 
 ## 👨‍💻 About Me
+
 -  Pursuing B.Tech in Computer Science Engineering (AI/ML).
 -  Interested in Artificial Intelligence and Machine Learning.
 -  Working with Python, SQL and data science libraries.
@@ -18,6 +19,7 @@ Aspiring AI/ML Engineer interested in building practical machine learning and de
 ---
 
 ## 🛠️ Technical Skills
+
 - Programming: Python, SQL
 - Libraries: NumPy, Pandas, Scikit-learn
 - AI/ML/DL: PyTorch, Scikit-Learn, XGBoost, LLM , RAG
@@ -28,13 +30,15 @@ Aspiring AI/ML Engineer interested in building practical machine learning and de
 ---
 
 ## 🏆 Key Certifications & Achievements
-- 🏅 NPTEL Certification: Affective Computing (Score: 83%)-IIT Madras & IIT Delhi | 
-Design,Technology and Innovation (score:63%)-IIT Bombay
+
+- 🏅 NPTEL Certification:Affective Computing (Score: 83%)-IIT Madras & IIT Delhi | 
+      & Design,Technology and Innovation (score:63%)-IIT Bombay
 - ☁️ AWS Academy Graduate: Machine Learning Foundations | Cloud Foundations
 
 ---
 
 📫 Connect With Me
+
 - 💼 LinkedIn: www.linkedin.com/in/mainuddin-sable
 - 📸 Instagram: https://www.instagram.com/_mainusable_?obrf=MWJyeTN6YTdtMWd3ZA%3D%3D&utm_source=qr
 - 📍 Location:Navi Mumbai, Maharashtra, India
